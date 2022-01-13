@@ -1,0 +1,24 @@
+{
+    "request": [
+        
+        {
+        "nome" : "Nome da Startup",
+        "descricao" : "Descrição da Startup",
+        "site" : "www.site.com",
+        "email" : "startup@code.com",
+        "password" : "23233qewd",
+        "autorized": false
+        },
+
+        {
+        "nome" : "Nome da Startup2",
+        "descricao" : "Descrição da Startup2",
+        "site" : "www.site.com2",
+        "email" : "startup2@code.com",
+        "password" : "2323244ewqda",
+        "autorized": false
+        }
+        
+    ]
+
+}
